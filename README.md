@@ -17,15 +17,15 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 ### Windows Sandbox
 Para activar el programa Windows Sandbox hace falta activar esta característica de Windows.
 
-Con las teclas Win + R  buscamos "optionfeatures"
+- Con las teclas Win + R  buscamos "optionfeatures"
 
-Dentro seleccionamos la casilla de "Espacio aislado de Windows".
+- Dentro seleccionamos la casilla de "Espacio aislado de Windows".
 
 ![img1](img/img1.PNG)
 
-Abrimos el programa buscando el barra de tareas "Windows Sandbox".
+- Abrimos el programa buscando el barra de tareas "Windows Sandbox".
 
-Se nos abrirá un Windows virtualizado.
+- Se nos abrirá un Windows virtualizado.
 
 ![img2](img/img2.PNG)
 
