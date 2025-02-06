@@ -57,6 +57,7 @@ Ejecutamos el programa python de la calculadora.
 - Tendremos que arrastrar el programa .py hacia el sandboxie
 
 - Nos saldrá esta ventanita y aceptaremos.
+
 ![img8](img/img8.PNG)
 
 - Cuando aceptamos directamente se nos abrirá el programa pero con el aislamiento que queremos tener.
