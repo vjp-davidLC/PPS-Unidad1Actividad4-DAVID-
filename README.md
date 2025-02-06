@@ -14,7 +14,7 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 
 ## Alternativas de programas sandbox y haciendo pruebas con un fichero python.
 
-#### Windows Sandbox
+### Windows Sandbox
 Para activar el programa Windows Sandbox hace falta activar esta característica de Windows.
 
 Con las teclas Win + R  buscamos "optionfeatures"
@@ -35,7 +35,7 @@ Y así podremos ejecutar programas y hacer pruebas de caja arena para ser antes 
 
 ![img3](img/img3.PNG)
 
-#### Sandboxie
+### Sandboxie
 
 Para poseer este programa hace falta descargarlo e instalarlo a traves de este enlace:
 https://sandboxie-plus.com/downloads/
@@ -65,7 +65,7 @@ En el programa sandboxie apreciamos los procesos que tiene el programa.
 
 ![img9](img/img9.PNG)
 
-#### Firejail
+### Firejail
 
 
 
