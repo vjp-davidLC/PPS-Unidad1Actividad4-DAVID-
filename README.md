@@ -27,43 +27,43 @@ Abrimos el programa buscando el barra de tareas "Windows Sandbox".
 
 Se nos abrirá un Windows virtualizado.
 
-![img2](img/img2.png)
+![img2](img/img2.PNG)
 
 Para ejecutar el programa pyhton hay que instalarse todo lo necesario ya que este Windows esta totalmente vacío.
 
 Y así podremos ejecutar programas y hacer pruebas de caja arena para ser antes detectados los fallos o lo que queremas prevenir.
 
-![img3](img/img3.png)
+![img3](img/img3.PNG)
 
 #### Sandboxie
 
 Para poseer este programa hace falta descargarlo e instalarlo a traves de este enlace:
 https://sandboxie-plus.com/downloads/
 
-![img4](img/img4.png)
+![img4](img/img4.PNG)
 
 Tendremos que seguir los pases del instalador.
 
-![img5](img/img5.png)
+![img5](img/img5.PNG)
 
-![img6](img/img6.png)
+![img6](img/img6.PNG)
 
 Una vez teriando el instalador nos abrirá automáticamente el programa.
 
-![img7](img/img7.png)
+![img7](img/img7.PNG)
 
 Ejecutamos el programa python de la calculadora.
 
 Tendremos que arrastrar el programa .py hacia el sandboxie
 
 Nos saldrá esta ventanita y aceptaremos.
-![img8](img/img8.png)
+![img8](img/img8.PNG)
 
 Cuando aceptamos directament se nos abrirá el programa pero con el aislamiento que queremos tener.
 
 En el programa sandboxie apreciamos los procesos que tiene el programa.
 
-![img9](img/img9.png)
+![img9](img/img9.PNG)
 
 #### Firejail
 
