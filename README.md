@@ -21,7 +21,7 @@ Con las teclas Win + R  buscamos "optionfeatures"
 
 Dentro seleccionamos la casilla de "Espacio aislado de Windows".
 
-![img1](img/img1.png)
+![img1](img/img1.PNG)
 
 Abrimos el programa buscando el barra de tareas "Windows Sandbox".
 
