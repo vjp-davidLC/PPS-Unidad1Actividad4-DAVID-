@@ -48,18 +48,18 @@ Tendremos que seguir los pases del instalador.
 
 ![img6](img/img6.PNG)
 
-Una vez teriando el instalador nos abrirá automáticamente el programa.
+Una vez terminado el instalador nos abrirá automáticamente el programa.
 
 ![img7](img/img7.PNG)
 
 Ejecutamos el programa python de la calculadora.
 
-Tendremos que arrastrar el programa .py hacia el sandboxie
+- Tendremos que arrastrar el programa .py hacia el sandboxie
 
-Nos saldrá esta ventanita y aceptaremos.
+- Nos saldrá esta ventanita y aceptaremos.
 ![img8](img/img8.PNG)
 
-Cuando aceptamos directament se nos abrirá el programa pero con el aislamiento que queremos tener.
+- Cuando aceptamos directamente se nos abrirá el programa pero con el aislamiento que queremos tener.
 
 En el programa sandboxie apreciamos los procesos que tiene el programa.
 
