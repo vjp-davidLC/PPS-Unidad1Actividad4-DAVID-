@@ -66,7 +66,6 @@ En el programa sandboxie apreciamos los procesos que tiene el programa.
 
 ![img9](img/img9.PNG)
 
-### Firejail
 
 
 
